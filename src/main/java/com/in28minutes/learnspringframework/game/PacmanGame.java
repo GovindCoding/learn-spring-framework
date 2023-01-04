@@ -16,13 +16,13 @@ public class PacmanGame implements GamingConsole {
 
 	@Override
 	public void left() {
-		System.out.println("left-run");
+		System.out.println("left");
 
 	}
 
 	@Override
 	public void right() {
-		System.out.println("right-Fire");
+		System.out.println("right");
 
 	}
 
